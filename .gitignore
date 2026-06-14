@@ -1,1 +1,9 @@
+#ambiente virtual
 .venv/
+
+# Bloquear a pasta data em qualquer lugar do projeto
+data/
+src/data/
+
+# Bloquear qualquer arquivo CSV
+*.csv
